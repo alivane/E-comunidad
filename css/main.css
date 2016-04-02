@@ -1,0 +1,171 @@
+img{
+	width: 100%;
+}
+.logo{
+	width: 55%;
+	padding-left: 10%;
+
+}
+.siguenos{
+	position: absolute;
+	margin-right: 12px;
+    top:30px;
+    right:16%;
+}
+.semilla{
+	width: 940px;
+	height: 260px;
+	margin-bottom: 0px;
+	margin-left:-28px;
+	margin-top:-3px;
+}
+.letras{
+	color:#AEB897;
+}
+.mision{
+	width: 35%;
+	margin-left: 34%;
+
+}
+a{
+	text-decoration: none;
+	border-right: 2px solid #c0c0c0;
+	display: inline-block;
+	padding-left: 15px;
+	padding-right: 15px;
+	margin-top: 30px;
+	color:#c0c0c0;
+}
+p{
+	color:#c0c0c0;
+	text-align: center;
+	font-size: 11px;
+}
+#fondo{
+    background-color: #EAECE6;
+    margin-bottom: 6%;
+}
+.boy{
+	width: 107%;
+	height: 287px;
+}
+.green{
+	width: 107%;
+}
+.metodo{
+	width: 5%;
+	margin-top: 47%;
+	margin-left: 47%;
+}
+#solid{
+	margin-left: 11px;
+	top:16%;
+	position: absolute;
+	left:250px;
+}
+.verde{
+	position: relative;
+}
+#color{
+	background-color: #537f28;
+	height: 600px;
+	padding-left: 100px;
+	padding-top: 30px;
+
+}
+.miss{
+	border-radius: 100%;
+	width: 35%;
+	margin-left: 32%;
+}
+.in{
+	width: 75%;
+	margin-left: -24px;
+	margin-top: 30px;
+	margin-bottom: 40px;
+}
+#post{
+		background-image: url(file://localhost/Users/estudiante/Desktop/LaboRatoria/E-cominidad/img/fondo2.jpg);
+   padding: 40px;
+
+}
+#parrafos{
+	margin-left: 6px;
+	margin-right:7px;
+	margin-top:20px;
+
+}
+.leter{
+	color:black;
+}
+.leter1{
+	text-align: left;
+}
+.redes{
+       border-radius: 100%;
+       width: 20%;
+       margin-left: 58%;
+       color:white;
+}
+h5{
+	color:green;
+	text-align: center;
+
+}
+h3{
+	
+	text-align: center;
+}
+h4{
+	color: #c0c0c0;
+	
+	text-align: center;
+}
+h2{
+	color:green;
+}
+#linea{
+	
+	background-color: grey;
+	padding: 50px;
+}
+#face{
+	border: 2px solid white;
+	margin-left: 3px;
+	
+}
+.blanco{
+	color:white;
+	text-align: left;
+	margin-top: 13px;
+}
+#borde{
+	border-right: 2px solid white;
+}
+#bottom{
+	margin-top: 40px;
+	font-size: 17px;
+	margin-bottom: 30px;
+}
+.comu{
+ 
+ text-align: right;
+   margin-right: -12px;
+}
+.la{
+	color:orange;
+	margin-right: 19px;
+}
+.p{
+	text-align: right;
+	margin-right: -15px;
+}
+
+.projec{
+	color:white;
+	text-align: left;
+}
+.name{
+	color:white;
+	text-align: center;
+}
